@@ -1,6 +1,6 @@
 # hello-world
 
-hello-world in different top programming languages in 2019 for developers:
+hello-world in different top programming languages in 2019:
 
 1. JavaScript
 2. Python
